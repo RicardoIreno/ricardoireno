@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello World
+### I'm a student feeling so small in front this giant world of technology.
 
-<!--
-**RicardoIreno/ricardoireno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm declaring my firts `"lets"` and `"consts"`
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const techs = {
+  techsWithSomeDomain: [HTML, CSS, SASS, Jekyll, Git]
+  learningTechs: [Javascript, React, Node],
+  nextTechsToLearn: [Redux, Angular, Jest, Typescript, Python]
+  architectureWithSomeDomain: [MVC]
+}
+```
